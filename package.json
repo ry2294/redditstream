@@ -1,0 +1,12 @@
+{
+  "name": "redditstream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "reddit-stream": "^1.2.0",
+    "unirest": "^0.4.2"
+  }
+}
